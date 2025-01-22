@@ -1,2 +1,1 @@
-# Dashboard_SC
-SC Dashboard app
+# Shopclues Dashboard locker
